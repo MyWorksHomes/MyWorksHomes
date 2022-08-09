@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MyWorksHomes&repo=github-readme-stats)](https://github.com/MyWorksHomes/github-readme-stats)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyWorksHomes&layout=compact)](https://github.com/MyWorksHomes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyWorksHomes&layout=compact)](https://github.com/mywordcloud/github-readme-stats)
 
 ### Contacs
 
